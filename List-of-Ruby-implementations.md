@@ -52,9 +52,13 @@ targets compatibility, performance and portability.
 * [ruby2lisp]() : (Link and description to be found)
 * [**Rite/mruby**](https://github.com/mruby/mruby) : mruby is the lightweight implementation of the Ruby language
 * [RubySharp](http://www.rubyclr.com/) : A Ruby to CIL Compiler
-* [HotRuby]() :
-* [Red Sun]() :
-* [emscripted-ruby]() :
-* [RORIS6440 (fake)]() : [?]
-* [hrwt]() :
+* [**HotRuby**](http://hotruby.yukoba.jp/) : HotRuby is Ruby on JavaScript and Flash. HotRuby runs Ruby source code on a web browser and Flash.
+* [Red Sun](https://github.com/jonathanbranam/redsun) : Red Sun - Ruby to Flash compiler and framework
+* [emscripted-ruby](https://github.com/replit/emscripted-ruby) : Ruby 1.8.7 compiled to JavaScript
+* [hrwt](https://github.com/gimite/hrwt) : Ruby VM on JavaScript (based on HotRuby) + RPC.
 * ... (possibly more can be added)
+
+
+Other relative useful links:
+=============================
+

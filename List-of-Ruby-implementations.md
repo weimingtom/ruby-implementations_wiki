@@ -37,7 +37,7 @@
 * [**Rubinius**](http://rubini.us/) : An environment for the Ruby programming language providing performance, accessibility, and improved programmer productivity
 * [Cardinal](https://github.com/parrot/cardinal) : Cardinal is a Ruby compiler for Parrot Virtual Machine.
 * [**Opal**](http://opal.github.com/) : Opal is a ruby to _javascript_ compiler.
-* [rb2js](http://rb2js.rubyforge.org/) : ruby to javaScript
+* [rb2js](http://rb2js.rubyforge.org/) : ruby to _javaScript_
 * [_Quby_](https://github.com/PlayMyCode/Quby) : Ruby-like language that compiles to _JavaScript_
 * [NETRuby](http://sourceforge.jp/projects/netruby/) : The programing language Ruby on the .NET
 * [sri-ruby](http://code.google.com/p/sri-ruby/) : This is a research experiment, not to be used for anything serious. It's (part of) a Ruby interpreter, written in Ruby, using ParseTree.
@@ -53,7 +53,7 @@
 * [**HotRuby**](http://hotruby.yukoba.jp/) : HotRuby is Ruby on _JavaScript_ and Flash. HotRuby runs Ruby source code on a web browser and Flash.
 * [Red Sun](https://github.com/jonathanbranam/redsun) : Red Sun - Ruby to Flash compiler and framework
 * [emscripted-ruby](https://github.com/replit/emscripted-ruby) : Ruby 1.8.7 compiled to _JavaScript_
-* [hrwt](https://github.com/gimite/hrwt) : Ruby VM on JavaScript (based on HotRuby) + RPC.
+* [hrwt](https://github.com/gimite/hrwt) : Ruby VM on _JavaScript_ (based on HotRuby) + RPC.
 * ... (possibly more can be added)
 
 

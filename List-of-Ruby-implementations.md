@@ -38,6 +38,7 @@
 * [Cardinal](https://github.com/parrot/cardinal) : Cardinal is a Ruby compiler for Parrot Virtual Machine.
 * [**Opal**](http://opal.github.com/) : Opal is a ruby to _javascript_ compiler.
 * [rb2js](http://rb2js.rubyforge.org/) : ruby to _javaScript_
+* [RubyJS](http://www.ntecs.de/blog/articles/2007/01/08/rubyjs-javascript-no-thank-you/) : A successor to rb2js
 * [_Quby_](https://github.com/PlayMyCode/Quby) : Ruby-like language that compiles to _JavaScript_
 * [NETRuby](http://sourceforge.jp/projects/netruby/) : The programing language Ruby on the .NET
 * [sri-ruby](http://code.google.com/p/sri-ruby/) : This is a research experiment, not to be used for anything serious. It's (part of) a Ruby interpreter, written in Ruby, using ParseTree.
@@ -50,7 +51,8 @@
 * [ruby2lisp]() : (Link and description to be found)
 * [**Rite/mruby**](https://github.com/mruby/mruby) : mruby is the lightweight implementation of the Ruby language
 * [RubySharp](http://www.rubyclr.com/) : A Ruby to CIL Compiler
-* [**HotRuby**](http://hotruby.yukoba.jp/) : HotRuby is Ruby on _JavaScript_ and Flash. HotRuby runs Ruby source code on a web browser and Flash.
+* [**HotRuby**](http://hotruby.yukoba.jp/) : HotRuby is Ruby on _JavaScript_ and Flash. HotRuby runs Ruby * source code on a web browser and Flash.
+* [ColdRuby](https://github.com/whitequark/coldruby) : Compiler of Ruby 1.9 MRI bytecode, and a runtime written in _JavaScript_ to aid in execution of Ruby code.
 * [Red Sun](https://github.com/jonathanbranam/redsun) : Red Sun - Ruby to Flash compiler and framework
 * [emscripted-ruby](https://github.com/replit/emscripted-ruby) : Ruby 1.8.7 compiled to _JavaScript_
 * [hrwt](https://github.com/gimite/hrwt) : Ruby VM on _JavaScript_ (based on HotRuby) + RPC.
@@ -60,6 +62,6 @@
 Other relative useful links:
 ----------------------------
 * [Gestalt](http://visitmix.com/work/gestalt/) : Gestalt is a way to write Ruby, Python & XAML code in your (X)HTML pages.
-* [Embedding Ruby in Kylix/Delphi](http://www.sourcepole.com/2006/9/1/embedding-ruby-in-kylix-delphi) : This component embeds the Ruby interpreter in a Kylix/Delphi application
 * [JS.Class](http://jsclass.jcoglan.com/) : JS.Class is a portable, modular JavaScript class library, influenced by the Ruby programming language.
+* [Embedding Ruby in Kylix/Delphi](http://www.sourcepole.com/2006/9/1/embedding-ruby-in-kylix-delphi) : This component embeds the Ruby interpreter in a Kylix/Delphi application
 

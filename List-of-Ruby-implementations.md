@@ -36,7 +36,7 @@
 * [Sapphire]() : (Link and description to be found)
 * [**Rubinius**](http://rubini.us/) : An environment for the Ruby programming language providing performance, accessibility, and improved programmer productivity
 * [Cardinal](https://github.com/parrot/cardinal) : Cardinal is a Ruby compiler for Parrot Virtual Machine.
-* [**Opal**](http://opal.github.com/) : Opal is a ruby to _javascript_ compiler.
+* [**Opal**](http://opalrb.org/) : Opal is a ruby to _javascript_ compiler.
 * [rb2js](http://rb2js.rubyforge.org/) : ruby to _javaScript_
 * [RubyJS](http://www.ntecs.de/blog/articles/2007/01/08/rubyjs-javascript-no-thank-you/) : A successor to rb2js
 * [_Quby_](https://github.com/PlayMyCode/Quby) : Ruby-like language that compiles to _JavaScript_

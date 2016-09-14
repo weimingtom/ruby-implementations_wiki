@@ -56,6 +56,10 @@
 * [Red Sun](https://github.com/jonathanbranam/redsun) : Red Sun - Ruby to Flash compiler and framework
 * [emscripted-ruby](https://github.com/replit/emscripted-ruby) : Ruby 1.8.7 compiled to _JavaScript_
 * [hrwt](https://github.com/gimite/hrwt) : Ruby VM on _JavaScript_ (based on HotRuby) + RPC.
+* [ruby](https://github.com/ruby/ruby) : The Ruby Programming Language
+* [Topaz](https://github.com/topazproject/topaz) : A high performance ruby, written in RPython
+* [grubby](https://github.com/grubby/grubby) : Grubby is an experimental ruby written in Golang
+* [erruby](https://github.com/johnlinvc/erruby) : ruby on erlang
 * ... (possibly more can be added)
 
 

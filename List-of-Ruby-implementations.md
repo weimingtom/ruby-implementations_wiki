@@ -12,6 +12,7 @@
 * [**MacRuby**](http://macruby.org/) : MacRuby is an implementation of Ruby 1.9 directly on top of Mac OS X core technologies such as the Objective-C runtime and garbage collector, the LLVM compiler infrastructure and the Foundation and ICU frameworks.
 * [RubyGoLightly](https://github.com/feyeleanor/RubyGoLightly) : An experimental port of TinyRb to Google go, both as a means of learning go and exploring alternate approaches to implementing Ruby. Work is currently focused on the GoLightly VM.
 * [**IronRuby**](http://www.ironruby.net/) : IronRuby is a Open Source implementation of the Ruby programming language for .NET and Silverlight, heavily relying on Microsoft's Dynamic Language Runtime.
+* [**GoRuby**](https://github.com/goruby/goruby) : An implementation of Ruby written in Go
 * [**JRuby**](http://www.jruby.org/) : The Ruby Programming Language on the JVM
 * [XRuby](https://code.google.com/p/xruby/) : XRuby is the first Ruby to Java compiler which compiles Ruby source code (.rb) to Java bytecode (.class). The parser is implemented in ANTLR, and we use ASM to emit java bytecode. 
 * [MetaRuby](http://zenspider.com/Languages/Ruby/MetaRuby.html) : Metaruby intends to implement ruby’s internals in ruby itself. Its implementation will use ruby2c to convert itself to C and bootstrap a new ruby binary. Metaruby should be fully compatible w/ Matz’s ruby.
